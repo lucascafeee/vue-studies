@@ -22,3 +22,25 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## tutorial execução do vue / criar projeto em vue.
+```
+npm install
+```
+
+```
+npm install -g @vue/cli
+
+```
+
+
+```
+npm run build
+```
+
+
+```
+npm run lint
+```
+
