@@ -36,11 +36,13 @@ npm install -g @vue/cli
 
 
 ```
-npm run build
+vue create <project name>
+
 ```
 
 
 ```
-npm run lint
+npm run serve
+
 ```
 
